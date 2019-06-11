@@ -1,3 +1,5 @@
+//żeby nie wyskakiwał ten błąd XMLHtpp... można przepisać na ajax
+// dodaje sobie zmiane
 $.getJSON("./data.json", function (data) {
     var compl = [];
     var act = [];
